@@ -1,0 +1,244 @@
+<html>
+<head>
+<title>Mercury Tours</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#666666" link="#000099">
+<table width="492" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="images/masts/mast_flightfinder.gif" width="492" height="30"></td>
+  </tr>
+  <tr> 
+    <td><img src="images/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr> 
+    <td><font face="Arial, Helvetica, sans-serif" size="2">Select your departure 
+      and return flight from the selections below. You're fare will be higher 
+      than quoted if you elect to fly on a different airline for both legs of 
+      your travel.</font></td>
+  </tr>
+  <tr>
+    <td><img src="images/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <form method="post" action="reservations.pl" name="results">
+        <table border=0 cellspacing=1 cellpadding=2 bgcolor=ffffff width=100%>
+          <tr> 
+            <td valign=top colspan=5> 
+              <table border=0 width=100% cellpadding="0" cellspacing="2">
+<tr> 
+                  <td class=title align=LEFT valign=BOTTOM><font face="Arial, Helvetica, sans-serif"><b><font color="#FF9900">DEPART</font></b></font></td>
+                  <td class=title align=RIGHT valign=BOTTOM>&nbsp;</td>
+                </tr>
+                <tr> 
+                  <td class=title align=LEFT valign=BOTTOM><b><font color="#333333" size="2" face="ARIAL">Acapulco
+                    to Zurich</font></b></td>
+                  <td class=title align=RIGHT valign=BOTTOM><b><font color="#333333" size="2" face="ARIAL">08/7/2019
+				    </font></b></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td class=frame_header_action align=CENTER bgcolor=#CCCCCC nowrap><font color="#000000" size="-2" face="ARIAL">SELECT</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">FLIGHT</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">DEPART</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">STOPS</font></td></tr>
+          		  
+
+<!-- From Acapulco (0) To Zurich (9) -->
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio checked name=outboundFlight value="button0">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Blue Skies Airlines 090</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            8:19am</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $751 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=outboundFlight value="button1">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Blue Skies Airlines 091</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            1:31pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $669 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=outboundFlight value="button2">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Unified Airlines 092</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            5:21pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $710 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=outboundFlight value="button3">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Pangea Airlines 093</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            11:42pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $614 </b>(based on round trip)</font></font></td>
+          </tr>
+</table>
+
+		<table border=0 cellspacing=1 cellpadding=2 bgcolor=ffffff width=100%>
+          <tr> 
+            <td valign=top colspan=5> 
+              <table border=0 width=100% cellpadding="0" cellspacing="2">
+			  <br>
+<tr> 
+                  <td class=title align=LEFT valign=BOTTOM><font face="Arial, Helvetica, sans-serif"><b><font color="#FF9900">RETURN</font></b></font></td>
+                  <td class=title align=RIGHT valign=BOTTOM>&nbsp;</td>
+                </tr>
+                <tr> 
+                  <td class=title align=LEFT valign=BOTTOM><b><font color="#333333" size="2" face="ARIAL">Zurich
+                    to Acapulco</font></b></td>
+                  <td class=title align=RIGHT valign=BOTTOM><b><font color="#333333" size="2" face="ARIAL">08/8/2019
+				    </font></b></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td class=frame_header_action align=CENTER bgcolor=#CCCCCC nowrap><font color="#000000" size="-2" face="ARIAL">SELECT</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">FLIGHT</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">DEPART</font></td>
+            <td class=frame_header_info align=CENTER bgcolor=#003399 nowrap><font color="#FFFFFF" size="-2" face="ARIAL">STOPS</font></td></tr>
+          		  
+
+<!-- From Zurich (9) To Acapulco (0) -->
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio checked name=returnFlight value="button0">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Blue Skies Airlines 900</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            8:00am</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $751 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=returnFlight value="button1">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Blue Skies Airlines 901</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            1:49pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $669 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=returnFlight value="button2">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Unified Airlines 902</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            5:57pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $710 </b>(based on round trip)</font></font></td>
+          </tr>
+		 <tr> 
+            <td class=frame_action_xrows rowspan=2 align=CENTER bgcolor=#FFCC00 valign=CENTER> 
+              <input type=radio  name=returnFlight value="button3">
+            </td>
+            <td class=data_left  align=LEFT bgcolor=CCCCCC><font size=-1 face=ARIAL><b> 
+				Pangea Airlines 903</b></font></td>
+            <td class=data_center_mono align=CENTER valign=TOP bgcolor=CCCCCC><font size=-1 face=ARIAL>
+            11:52pm</font><br>
+            </td>
+            <td class=data_center align=CENTER bgcolor=CCCCCC nowrap><font size=-1 face=ARIAL>non-stop</font></td>
+            <!--<TD class=data_center ALIGN=CENTER BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--> 
+            <!--<TD class=data_right  ALIGN=RIGHT BGCOLOR=CCCCCC NOWRAP><FONT SIZE=-1 FACE=ARIAL>&nbsp</FONT></TD>--></tr>
+          <tr> 
+            <td class=data_verb_xcols valign=top bgcolor=#FFFFFF colspan=4><font size=-1><font color=#333333 face=arial><b>Cost: 
+              $614 </b>(based on round trip)</font></font></td>
+          </tr>
+</table>
+
+
+
+
+<!--- Hidden variables -->
+<input type="hidden" name="type" value="roundtrip"  />
+<input type="hidden" name="numPassengers" value="1"  />
+<input type="hidden" name="username" value="jojo"  />
+<input type="hidden" name="depart" value="Acapulco"  />
+<input type="hidden" name="depart_mon" value="8"  />
+<input type="hidden" name="depart_day" value="7"  />
+<input type="hidden" name="arrive" value="Zurich"  />
+<input type="hidden" name="return_mon" value="8"  />
+<input type="hidden" name="return_day" value="8"  />
+<input type="hidden" name="seatType" value="Coach"  />
+<input type="hidden" name="airline" value="No Preference"  />
+<input type="hidden" name="unique-sessionID" value="1357227.id2049"  />
+<input type="hidden" name="departDate" value="08/7/2019"  />
+<input type="hidden" name="returnDate" value="08/8/2019"  />
+<input type="hidden" name="FD_OBF__button2" value="092;710;08/7/2019;Unified Airlines;5:21pm"  />
+<input type="hidden" name="FD_OBF__button3" value="093;614;08/7/2019;Pangea Airlines;11:42pm"  />
+<input type="hidden" name="FD_OBF__button0" value="090;751;08/7/2019;Blue Skies Airlines;8:19am"  />
+<input type="hidden" name="FD_OBF__button1" value="091;669;08/7/2019;Blue Skies Airlines;1:31pm"  />
+<input type="hidden" name="FD_RET__button2" value="902;710;08/8/2019;Unified Airlines;5:57pm"  />
+<input type="hidden" name="FD_RET__button3" value="903;614;08/8/2019;Pangea Airlines;11:52pm"  />
+<input type="hidden" name="FD_RET__button0" value="900;751;08/8/2019;Blue Skies Airlines;8:00am"  />
+<input type="hidden" name="FD_RET__button1" value="901;669;08/8/2019;Blue Skies Airlines;1:49pm"  />
+<p align="center">&nbsp;&nbsp;
+
+<input type=image NAME="reserveFlights" src="images/forms/continue.gif" width="104" height="23" border="0"></p>
+      </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

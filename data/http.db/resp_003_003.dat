@@ -1,0 +1,200 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#666666" link="#000099">
+<table width="492" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="273" valign="top"> 
+      <p><img src="images/featured_destination.gif" width="273" height="298" alt="Featured Destination: Aruba"></p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="273"><img src="images/hdr_specials.gif" width="270" height="20" alt="Specials"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" width="1" height="10"></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="101"> 
+            <table width="270" border="0" cellspacing="0" cellpadding="2">
+              <tr bgcolor="#CCCCCC"> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif, Verdana" size="2">Atlanta 
+                  to Las Vegas</font></td>
+                <td width="20%"> 
+                  <div align="right"><font face="Arial, Helvetica, sans-serif, Verdana" size="2"><b>$398</b></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td width="80%" height="10"><font face="Arial, Helvetica, sans-serif" size="2">Boston 
+                  to San Fransisco</font></td>
+                <td width="20%" height="10"> 
+                  <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><b>$513</b></font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#CCCCCC"> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Los 
+                  Angeles to Chicago</font></td>
+                <td width="20%"> 
+                  <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><b>$168</b></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">New 
+                  York to Chicago</font></td>
+                <td width="20%"> 
+                  <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><b>$198</b></font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#CCCCCC"> 
+                <td width="80%" height="19"><font face="Arial, Helvetica, sans-serif" size="2">Phoenix 
+                  to San Fransisco</font></td>
+                <td width="20%" height="19"> 
+                  <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><b>$213</b></font></div>
+                </td>
+              </tr>
+            </table>  
+          </td>
+        </tr>
+      </table>
+    
+      <table width="277" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td colspan="2"><br>
+            <img src="images/hdr_tips.gif" width="270" height="20" alt="Tour Tips"></td>
+        </tr>
+        <tr> 
+          <td width="274" colspan="2"><img src="images/spacer.gif" width="1" height="10"></td>
+        </tr>
+        <tr> 
+          <td width="84"><img src="images/tip93.gif" width="70" height="47" alt="Tip#93"></td>
+          <td valign="top" width="190"><font face="Arial, Helvetica, sans-serif, Verdana" size="2">Always 
+            carry a travel first aid kit with Bandages, Antacides, Asprin, bee 
+            sting wipes, and other basic necessities.</font></td>
+        </tr>
+      </table>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+    </td>
+    <td width="216">&nbsp;&nbsp;&nbsp;</td>
+    <td width="192" valign="top"> 
+      <form method="post" action="login.pl" name="home" target="_top">
+        <table width="192" border="0" cellspacing="0" cellpadding="0">
+          <tr align="right"> 
+            <td colspan="2"><font face="Arial, Helvetica, sans-serif, Verdana" size="2"><b>Aug 7, 2019</b></font></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="images/spacer.gif" width="1" height="10"></td>
+          </tr>
+          <tr> 
+            <td><img src="images/hdr_findflight.gif" width="88" height="20" alt="Find a Flight"></td>
+            <td><img src="images/hdr_right.gif" width="104" height="20"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                <tr> 
+                  <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">Registered 
+                    users can <b>sign-in here</b> to find the lowest fare on participating 
+                    airlines.</font> </td>
+                </tr>
+                <tr> 
+                  <td align="right"><font face="Arial, Helvetica, sans-serif" size="2">User 
+                    Name: </font></td>
+                  <td width="112"> 
+                    <input type="text" name="username" size="10">
+                  </td>
+                </tr>
+                <tr> 
+                  <td align="right"><font face="Arial, Helvetica, sans-serif" size="2">Password:</font></td>
+                  <td width="112"> 
+                    <input type="password" name="password" size="10">
+                  </td>
+                </tr>
+                <tr> 
+                  <td align="right">&nbsp;</td>
+                  <td width="112"> 
+                    <div align="center"><input type=image name=login value=Login src="images/btn_signin.gif" width="58" height="17" alt="Sign-In" border="0">
+					</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td colspan="2"><img src="images/spacer.gif" width="1" height="2"></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="images/hdr_destinations.gif" width="88" height="20" alt="Desinations"></td>
+            <td><img src="images/hdr_right.gif" width="104" height="20"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <table border="0" cellspacing="0" cellpadding="3" width="100%">
+                <tr> 
+                  <td align="center" width="80"><img src="images/icn_destinations.gif" width="34" height="34"></td>
+                  <td width="100"><font face="Arial, Helvetica, sans-serif, Verdana" size="2">Find 
+                    detailed information about <a href="uc.html" target="_top">your destination</a>.</font> 
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="images/hdr_vacation.gif" width="88" height="20" alt="vacations"></td>
+            <td><img src="images/hdr_right.gif" width="104" height="20"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <table border="0" cellspacing="0" cellpadding="3" width="100%">
+                <tr> 
+                  <td align="center" width="80"><img src="images/icn_vacations.gif" width="40" height="37"></td>
+                  <td width="100"><font face="Arial, Helvetica, sans-serif, Verdana" size="2">Read 
+                    about our <a href="uc.html" target="_top">featured vacation destinations</a>.</font></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="images/hdr_register.gif" width="88" height="20" alt="Register"></td>
+            <td><img src="images/hdr_right.gif" width="104" height="20"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <table border="0" cellspacing="0" cellpadding="3" width="100%">
+                <tr> 
+                  <td width="80" align="center"><img src="images/icn_register.gif" width="42" height="35"></td>
+                  <td width="100"><font face="Arial, Helvetica, sans-serif, Verdana" size="2"><a href="register.pl">Register 
+                    here</a> to join Mercury Tours!</font> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="images/hdr_links.gif" width="88" height="20" alt="Links"></td>
+            <td><img src="images/hdr_right.gif" width="104" height="20"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <table border="0" cellspacing="0" cellpadding="3" width="100%">
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif, Verdana" size="2"><a href="http://www.atre.net" target="_top">AtreNet 
+                    - Web Solutions</a> <br>
+                    <a href="http://businesstravel.about.com/mbody.htm?PM=78_101_T&amp;cob=home" target="_top">Business 
+                    Travel @ About.com</a><br>
+                    <a href="http://www.salon.com/travel/index.html" target="_top">Salon Travel</a></font></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </form>
+      <p>&nbsp; </p>
+      
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Expires: 5s
+Server: Microsoft-IIS/6.0
+Set-Cookie: MTUserInfo=country&1.0&firstname&&lastname&&phone&%28999%29322-2233&street1&&state&4&username&jojo&hash&47&email&webqa%40qa.org&city&3&zip&5&sessionID&1357227.id2049&street2&2; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 07 Aug 2019 07:45:46 GMT
+Connection: close
+

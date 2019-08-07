@@ -1,0 +1,13 @@
+POST /NewFlights/reservations.pl HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*
+Referer: http://kalimanjaro.hpeswlab.net/NewFlights/findflight.pl?username=jojo
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/8.0; .NET4.0C; .NET4.0E)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: kalimanjaro.hpeswlab.net
+Content-Length: 197
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: MTUserInfo=country&1.0&firstname&&lastname&&phone&%28999%29322-2233&street1&&state&4&username&jojo&hash&47&email&webqa%40qa.org&city&3&zip&5&sessionID&1357227.id2049&street2&2
+

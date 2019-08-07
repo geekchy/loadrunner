@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Length: 4674
+Content-Type: text/html
+Content-Location: http://kalimanjaro.hpeswlab.net/index.html
+Last-Modified: Mon, 23 Jan 2017 14:24:27 GMT
+Accept-Ranges: bytes
+ETag: "c1e274678475d21:b5a7"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Wed, 07 Aug 2019 07:45:24 GMT
+

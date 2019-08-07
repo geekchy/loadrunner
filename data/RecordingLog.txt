@@ -1,0 +1,418 @@
+[API Trapper      (1758:1924)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (1940: d34)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (10f4:1704)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (10f4: e4c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (10f4: e4c)] Load Network Traffic Analyzers:
+[Network Analyzer (10f4: e4c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (10f4: e4c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (10f4: e4c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (10f4: e4c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (10f4: e4c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (10f4: e4c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (10f4: e4c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (10f4: e4c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (10f4: 660)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: e4c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: e4c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (10f4: e4c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Web Request      (10f4: 660)] "GET /"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer (10f4: e4c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 2067 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /Images/logo.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 306 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /Images/ganim5b.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  2) Client -> Server @ : 309 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 1892 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 6768 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /favicon.ico"   
+[Network Analyzer (10f4: 660)]   (Sid:  2) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Server -> Client : 1795 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  2) Connection Terminated (by Client)
+[Web Request      (10f4: 660)] "GET /Images/logo_flipped.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 314 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 994 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 412 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 388 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 413 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 734 bytes  (Service=HTTP)
+[Network Analyzer (10f4:1878)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1878)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (10f4:1878)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1878)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (10f4:1878)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Web Request      (10f4: 660)] "GET /NewFlights/nav.pl"   
+[Network Analyzer (10f4: 660)]   (Sid:  1) Client -> Server @ : 430 bytes (Service=HTTP)
+[Network Analyzer (10f4:1878)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (10f4: 660)] "GET /NewFlights/main.html"   
+[Network Analyzer (10f4: 660)]   (Sid:  3) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  3) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (10f4:1878)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1878)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid:  1) Server -> Client : 5621 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (10f4:1878)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1878)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/logo.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  3) Client -> Server @ : 338 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_home.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 342 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/header.pl"   
+[Network Analyzer (10f4: 660)]   (Sid:  5) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  3) Server -> Client : 2932 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 600 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_hotels.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 344 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/toolbar.html"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 445 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 626 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_car.gif"   
+[Network Analyzer (10f4: db0)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 3731 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/home.pl"   
+[Network Analyzer (10f4: 660)]   (Sid:  3) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 701 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  5) Server -> Client : 580 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  5) Connection Terminated (by Server)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_cruises.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 345 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_background.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 348 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_flights.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 345 bytes (Service=HTTP)
+[Network Analyzer (10f4: db0)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 316 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 653 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  3) Server -> Client : 9180 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 625 bytes  (Service=HTTP)
+[Network Analyzer (10f4: b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid:  3) Connection Terminated (by Server)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_destinations.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 350 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_vacations.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 347 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_foot.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 342 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 712 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 680 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/boxad1.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 340 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/java.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 338 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 300 bytes  (Service=HTTP)
+[Network Analyzer (10f4: b3c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (10f4: db0)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 2024 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/boxad3.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 340 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 1501 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 1940 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_signon.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 355 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_support.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 356 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_register.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 357 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 662 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/mast_background.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 348 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 637 bytes  (Service=HTTP)
+[Network Analyzer (10f4: db0)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_home_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 344 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 323 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_contact.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 356 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 674 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 586 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_hotels_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 346 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 693 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_flights_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 347 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_destinations_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 352 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 607 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_vacations_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 349 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_car_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 343 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/nav/nav_cruises_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 10) Client -> Server @ : 347 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 701 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/banner2.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 340 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 663 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 613 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 688 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/featured_destination.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 351 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 10080 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_specials.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 343 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 10) Server -> Client : 637 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 747 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/spacer.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 337 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 899 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_findflight.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 345 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_right.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 340 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_tips.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 339 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/tip93.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 10) Client -> Server @ : 336 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 639 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 402 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 291 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 730 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/btn_signin.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 341 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_destinations.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 347 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/icn_destinations.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 347 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_vacation.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 343 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/icn_vacations.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 344 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 10) Server -> Client : 1761 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 758 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 657 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 956 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 625 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 1035 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_register.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 343 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/icn_register.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 343 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/hdr_links.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 340 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 742 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 970 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_contact_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 358 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_signon_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 357 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_support_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 358 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_register_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 359 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 636 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 667 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 689 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 679 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /favicon.ico"   
+[Network Analyzer (10f4: 660)]   (Sid:  9) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Server -> Client : 1795 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  9) Connection Terminated (by Client)
+[Web Request      (10f4: 660)] "POST /NewFlights/login.pl"   
+[Network Analyzer (10f4: 660)]   (Sid:  7) Client -> Server @ : 581 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Server -> Client : 824 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/nav.pl"   
+[Network Analyzer (10f4: 660)]   (Sid:  6) Client -> Server @ : 623 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/login.pl?intro=true&username=jojo"   
+[Network Analyzer (10f4: 660)]   (Sid:  4) Client -> Server @ : 650 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Server -> Client : 5621 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (10f4: 660)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Server -> Client : 729 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  4) Connection Terminated (by Server)
+[Web Request      (10f4: 660)] "GET /NewFlights/header.pl"   
+[Network Analyzer (10f4: 660)]   (Sid: 10) Client -> Server @ : 651 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/toolbar_member.html"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 4143 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/findflight.pl?username=jojo"   
+[Network Analyzer (10f4: 660)]   (Sid:  8) Client -> Server @ : 669 bytes (Service=HTTP)
+[Network Analyzer (10f4: b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: b3c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid: 10) Server -> Client : 585 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid:  8) Server -> Client : 9041 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 10) Connection Terminated (by Server)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_signoff.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (10f4:177c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (10f4: e4c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1a90)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 673 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_intinerary.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 551 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 693 bytes  (Service=HTTP)
+[Network Analyzer (10f4:177c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_profile.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 548 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/banner4.gif"   
+[Network Analyzer (10f4: c88)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid: 12) Client -> Server @ : 525 bytes (Service=HTTP)
+[Network Analyzer (10f4:1a90)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 645 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/forms/continue.gif"   
+[Network Analyzer (10f4:1b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/masts/mast_flightfinder.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 13) Client -> Server @ : 559 bytes (Service=HTTP)
+[Network Analyzer (10f4: e4c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 757 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 4291 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 13) Server -> Client : 1299 bytes  (Service=HTTP)
+[Network Analyzer (10f4: c88)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (10f4:1b3c)] Request Connection: Remote Server @ 16.44.49.218:80   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (10f4: 660)] "GET /NewFlights/classes"   
+[Network Analyzer (10f4: 660)]   (Sid: 13) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 13) Server -> Client : 404 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/classes/"   
+[Network Analyzer (10f4: 660)]   (Sid: 13) Client -> Server @ : 566 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_profile_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 550 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_intinerary_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 12) Client -> Server @ : 553 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 647 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 13) Server -> Client : 1911 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/toolbar/tool_signoff_a.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 14) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 689 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 677 bytes  (Service=HTTP)
+[Network Analyzer (1940:1938)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1940:1938)] Load Network Traffic Analyzers:
+[Network Analyzer (1940:1938)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1940:1938)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1940:1938)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1940:1938)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1940:1938)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1940:1938)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1940:1938)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1940:1938)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1940:1784)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (1940:1938)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (1940:1938)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (1940:1784)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (1940:1784)]   (Sid:  1) Client -> Server @ : 148 bytes (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  1) Server -> Client : 39 bytes 
+[Network Analyzer (1940:17b8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (10f4:1b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1b3c)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1940: 488)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (1940: 488)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1940: 488)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Web Request      (1940:1784)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 266 bytes (Service=HTTP)
+[Network Analyzer (1940: 488)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (1940:1784)] "CONNECT sqm.telemetry.microsoft.com:443"   
+[Network Analyzer (1940:1784)]   (Sid:  3) Client -> Server @ : 91 bytes (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 2629 bytes  (Service=HTTP)
+[Web Request      (1940:1784)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 309 bytes (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 2629 bytes  (Service=HTTP)
+[Web Request      (1940:1784)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 480 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (10f4: 660)]   (Sid: 17) Client -> Server @ : 148 bytes (Service=HTTP)
+[Web Request      (1940:1784)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 293 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 17) Server -> Client : 39 bytes 
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 477 bytes  (Service=HTTP)
+[Web Request      (1940:1784)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 196 bytes (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 9656 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 437 bytes  (Service=HTTP)
+[Web Request      (1940:1784)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1940:1784)]   (Sid:  2) Client -> Server @ : 239 bytes (Service=HTTP)
+[Network Analyzer (10f4:1068)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 11013 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1940:1784)]   (Sid:  2) Server -> Client : 15461 bytes  (Service=HTTP)
+[Net An. Error    (1940:17b8)] SSLAccept(ssl_id = 894944700512 = 000000D05EDC6860) Failed, ctx = 000000D05ED6F140, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1940:17b8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10f4:1b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4:1b3c)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1940:1784)]   (Sid:  1) Connection Terminated (by Client)
+[Web Request      (10f4: 660)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 266 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 2629 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 309 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 2629 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 477 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 293 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 477 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 196 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 8730 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (10f4: 660)]   (Sid: 18) Client -> Server @ : 239 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 2934 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 12120 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 2791 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 3001 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 18) Server -> Client : 5628 bytes  (Service=HTTP)
+[Net An. Error    (10f4:1068)] SSLAccept(ssl_id = 250273776 = 0EEADFF0) Failed, ctx = 0AEFF4D0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10f4:1068)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10f4: 660)]   (Sid: 17) Connection Terminated (by Client)
+[Web Request      (10f4: 660)] "GET /NewFlights/classes"   
+[Network Analyzer (10f4: 660)]   (Sid: 14) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 404 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/classes/"   
+[Network Analyzer (10f4: 660)]   (Sid: 14) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 1911 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "POST /NewFlights/reservations.pl"   
+[Network Analyzer (10f4: 660)]   (Sid: 14) Client -> Server @ : 944 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 4221 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 4096 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 4096 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Server -> Client : 1965 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (1940: c48)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (1940: c48)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (10f4: 660)]   (Sid: 12) Client -> Server @ : 735 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "POST /NewFlights/reservations.pl"   
+[Network Analyzer (10f4: 660)]   (Sid: 12) Client -> Server @ : 917 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 10363 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Server -> Client : 13291 bytes  (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/masts/mast_book.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 13) Client -> Server @ : 539 bytes (Service=HTTP)
+[Web Request      (10f4: 660)] "GET /NewFlights/images/forms/purchase.gif"   
+[Network Analyzer (10f4: 660)]   (Sid: 11) Client -> Server @ : 538 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 13) Server -> Client : 1317 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 11) Server -> Client : 923 bytes  (Service=HTTP)
+[Web Request      (1940:1784)] "CONNECT sqm.telemetry.microsoft.com:443"   
+[Network Analyzer (1940:1784)]   (Sid:  4) Client -> Server @ : 91 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (10f4: b3c)] Address lookup for myd-hvm01713 = 10.199.65.15
+[Network Analyzer (10f4: b3c)] Request Connection: Remote Server @ 16.82.112.30:8080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1940:1784)]   (Sid:  3) Connection Terminated (by Client)
+[Web Request      (10f4: 660)] "POST http://kalimanjaro/NewFlights/reservations.pl"   
+[Network Analyzer (10f4: 660)]   (Sid: 19) Client -> Server @ : 1990 bytes (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 19) Server -> Client : 805 bytes  (Service=HTTP)
+[Network Analyzer (10f4: 660)]   (Sid: 19) Connection Terminated (by Server)

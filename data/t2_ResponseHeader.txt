@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Length: 413
+Content-Type: text/html
+Content-Location: http://kalimanjaro.hpeswlab.net/NewFlights/index.html
+Last-Modified: Mon, 02 Aug 1999 10:09:00 GMT
+Accept-Ranges: bytes
+ETag: "0c62cacfdcbe1:b5a7"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Wed, 07 Aug 2019 07:45:33 GMT
+

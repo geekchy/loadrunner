@@ -1,0 +1,832 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 15,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "8月-07-2019",
+    "RecordingDuration": 68141,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1565163913,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 273583,
+    "TotalBytesSent": 36927,
+    "TotalRequests": 82,
+    "UserAgent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/8.0; .NET4.0C; .NET4.0E)"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "kalimanjaro",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "",
+          "IncludeInScript": true,
+          "Name": "kalimanjaro",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 294,
+              "HttpStatus": 404,
+              "Size": 621,
+              "URL": "http://kalimanjaro/NewFlights/reservations.pl"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "hpeswlab.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "16.44.49.218",
+          "IncludeInScript": true,
+          "Name": "kalimanjaro.hpeswlab.net",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 288,
+              "HttpStatus": 200,
+              "Size": 674,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/forms/purchase.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 286,
+              "HttpStatus": 200,
+              "Size": 1067,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/masts/mast_book.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 453,
+              "EventId": 282,
+              "HttpStatus": 200,
+              "Size": 39868,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/reservations.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 274,
+              "HttpStatus": 200,
+              "Size": 14228,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/reservations.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 272,
+              "HttpStatus": 200,
+              "Size": 1758,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/classes/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 270,
+              "HttpStatus": 301,
+              "Size": 174,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/classes"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 204,
+              "HttpStatus": 200,
+              "Size": 428,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_signoff_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 202,
+              "HttpStatus": 200,
+              "Size": 440,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_intinerary_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 200,
+              "HttpStatus": 200,
+              "Size": 1758,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/classes/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 198,
+              "HttpStatus": 200,
+              "Size": 398,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_profile_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 196,
+              "HttpStatus": 301,
+              "Size": 174,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/classes"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 193,
+              "HttpStatus": 200,
+              "Size": 1049,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/masts/mast_flightfinder.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 189,
+              "HttpStatus": 200,
+              "Size": 508,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/forms/continue.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 187,
+              "HttpStatus": 200,
+              "Size": 20426,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/banner4.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 183,
+              "HttpStatus": 200,
+              "Size": 396,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_profile.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 179,
+              "HttpStatus": 200,
+              "Size": 444,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_intinerary.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 176,
+              "HttpStatus": 200,
+              "Size": 424,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_signoff.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 169,
+              "HttpStatus": 200,
+              "Size": 8891,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/findflight.pl?username=jojo"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 167,
+              "HttpStatus": 200,
+              "Size": 435,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/header.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 163,
+              "HttpStatus": 200,
+              "Size": 3893,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/toolbar_member.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 157,
+              "EventId": 160,
+              "HttpStatus": 200,
+              "Size": 579,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/login.pl?intro=true&username=jojo"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 156,
+              "HttpStatus": 200,
+              "Size": 5451,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/nav.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 154,
+              "HttpStatus": 200,
+              "Size": 444,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/login.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 151,
+              "HttpStatus": 404,
+              "Size": 1635,
+              "URL": "http://kalimanjaro.hpeswlab.net/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 149,
+              "HttpStatus": 200,
+              "Size": 430,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_register_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 147,
+              "HttpStatus": 200,
+              "Size": 440,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_contact_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 145,
+              "HttpStatus": 200,
+              "Size": 418,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_support_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 387,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_signon_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 141,
+              "HttpStatus": 200,
+              "Size": 251,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_links.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 139,
+              "HttpStatus": 200,
+              "Size": 721,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/icn_register.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 137,
+              "HttpStatus": 200,
+              "Size": 493,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_register.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 135,
+              "HttpStatus": 200,
+              "Size": 787,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/icn_vacations.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 133,
+              "HttpStatus": 200,
+              "Size": 376,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_vacation.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 131,
+              "HttpStatus": 200,
+              "Size": 707,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/icn_destinations.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 129,
+              "HttpStatus": 200,
+              "Size": 408,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_destinations.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 510,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/btn_signin.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 125,
+              "HttpStatus": 200,
+              "Size": 1511,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/tip93.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 123,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_tips.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 121,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/spacer.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 46,
+              "EventId": 119,
+              "HttpStatus": 200,
+              "Size": 153,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_right.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 117,
+              "HttpStatus": 200,
+              "Size": 392,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_findflight.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 114,
+              "HttpStatus": 200,
+              "Size": 498,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/hdr_specials.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 112,
+              "HttpStatus": 200,
+              "Size": 17033,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/featured_destination.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 110,
+              "HttpStatus": 200,
+              "Size": 388,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_cruises_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 108,
+              "HttpStatus": 200,
+              "Size": 9831,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/banner2.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 106,
+              "HttpStatus": 200,
+              "Size": 439,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_car_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 104,
+              "HttpStatus": 200,
+              "Size": 364,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_flights_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 102,
+              "HttpStatus": 200,
+              "Size": 414,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_vacations_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 100,
+              "HttpStatus": 200,
+              "Size": 452,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_destinations_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 98,
+              "HttpStatus": 200,
+              "Size": 359,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_hotels_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 96,
+              "HttpStatus": 200,
+              "Size": 444,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_contact.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 94,
+              "HttpStatus": 200,
+              "Size": 338,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_home_a.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 109,
+              "EventId": 92,
+              "HttpStatus": 200,
+              "Size": 425,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_register.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 90,
+              "HttpStatus": 200,
+              "Size": 76,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/mast_background.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 88,
+              "HttpStatus": 200,
+              "Size": 388,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_signon.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 86,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/toolbar/tool_support.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 83,
+              "HttpStatus": 200,
+              "Size": 1691,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/boxad3.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 81,
+              "HttpStatus": 200,
+              "Size": 1251,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/java.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 79,
+              "HttpStatus": 200,
+              "Size": 1775,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/boxad1.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 76,
+              "HttpStatus": 200,
+              "Size": 53,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_foot.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 73,
+              "HttpStatus": 200,
+              "Size": 432,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_vacations.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 71,
+              "HttpStatus": 200,
+              "Size": 463,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_destinations.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 67,
+              "HttpStatus": 200,
+              "Size": 376,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_flights.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 93,
+              "EventId": 65,
+              "HttpStatus": 200,
+              "Size": 9030,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/home.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 63,
+              "HttpStatus": 200,
+              "Size": 404,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_cruises.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 61,
+              "HttpStatus": 200,
+              "Size": 69,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_background.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 57,
+              "HttpStatus": 200,
+              "Size": 430,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/header.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 55,
+              "HttpStatus": 200,
+              "Size": 452,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_car.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 53,
+              "HttpStatus": 200,
+              "Size": 3481,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/toolbar.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 50,
+              "HttpStatus": 200,
+              "Size": 377,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_hotels.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 48,
+              "HttpStatus": 200,
+              "Size": 352,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/nav_home.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 46,
+              "HttpStatus": 200,
+              "Size": 2684,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/images/nav/logo.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 5451,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/nav.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 37,
+              "HttpStatus": 200,
+              "Size": 566,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/main.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 29,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 27,
+              "HttpStatus": 301,
+              "Size": 166,
+              "URL": "http://kalimanjaro.hpeswlab.net/NewFlights"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 25,
+              "HttpStatus": 200,
+              "Size": 745,
+              "URL": "http://kalimanjaro.hpeswlab.net/Images/logo_flipped.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 22,
+              "HttpStatus": 404,
+              "Size": 1635,
+              "URL": "http://kalimanjaro.hpeswlab.net/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 15,
+              "HttpStatus": 200,
+              "Size": 88438,
+              "URL": "http://kalimanjaro.hpeswlab.net/Images/ganim5b.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 13,
+              "HttpStatus": 200,
+              "Size": 1642,
+              "URL": "http://kalimanjaro.hpeswlab.net/Images/logo.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 10,
+              "HttpStatus": 200,
+              "Size": 4674,
+              "URL": "http://kalimanjaro.hpeswlab.net/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 2
+}

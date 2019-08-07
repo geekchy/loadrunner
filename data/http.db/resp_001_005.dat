@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Mercury Tours</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<frameset cols="120,*" rows="*" frameborder="NO" border="0" framespacing="0"> 
+  <frame src="nav.pl" NAME="nav" noresize SCROLLING="no">
+  <frame src="main.html" NAME="main" noresize SCROLLING="no">
+</frameset>
+<noframes><body bgcolor="#FFFFFF">
+
+</body></noframes>
+</html>
